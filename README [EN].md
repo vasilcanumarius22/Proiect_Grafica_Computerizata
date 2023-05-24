@@ -1,5 +1,5 @@
 
-# Three.JS Project - [Three.js Project (RO)](https://raw.githubusercontent.com/vasilcanumarius22/Proiect_Grafica_Computerizata/main/README.md)
+# Three.JS Project - [Three.js Project (RO)](https://github.com/vasilcanumarius22/Proiect_Grafica_Computerizata/blob/main/README.md)
 - Student: Marius Daniel **VASILCANU**
 - Group: 1115 (Informatica Economica)
 
