@@ -1,5 +1,5 @@
 
-# Proiect Three.js (RO) - [Three.js Project](./README [EN].md)
+# Proiect Three.js (RO) - [Three.js Project (EN)](https://github.com/vasilcanumarius22/Proiect_Grafica_Computerizata/blob/main/README%20%5BEN%5D.md)
 - Student: Marius Daniel **VASILCANU**
 - Grupă: 1115 (Informatica Economica)
 
