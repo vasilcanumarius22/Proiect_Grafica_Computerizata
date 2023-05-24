@@ -46,7 +46,7 @@ Make sure to download or access these resources to have them available for the p
 The project is organized as follows:
 
 ```
-DuckAdventure/
+./
 | - index.html
 | - main.js
 | - models/
