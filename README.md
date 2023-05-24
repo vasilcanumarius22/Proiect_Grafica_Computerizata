@@ -12,6 +12,10 @@ Acest proiect utilizează biblioteca Three.js pentru a crea o scenă 3D cu eleme
 - Deschide fișierul HTML principal (index.html) într-un browser web.
 - Scena 3D va fi afișată, iar tu poți interacționa cu ea folosind controalele furnizate.
 
+### Ce utilizez eu pentru a deschide proiectul
+- Ca IDE (sau editor de cod) utilizez [Visual Studio Code](https://code.visualstudio.com/)
+- Pentru a lansa proiectul utilizez un server local (localhost). Acest lucru este realizabil prin utilizarea extensiei denumite [`Live Server`](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 ## Prerechizite
 Pentru a rula proiectul, ai nevoie de următoarele resurse externe:
 
