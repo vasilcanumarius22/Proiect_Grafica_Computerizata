@@ -12,6 +12,10 @@ This project utilizes the Three.js library to create a 3D scene with interactive
 - Open the main HTML file (index.html) in a web browser.
 - The 3D scene will be displayed, and you can interact with it using the provided controls.
 
+### What do I use to open the project
+- As IDE (or code editor) I use [Visual Studio Code](https://code.visualstudio.com/)
+- To launch the project I use a local server (localhost). This is achievable by using the extension called [`Live Server`](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 ## Prerequisites
 To run the project, you need the following external resources:
 
