@@ -1,5 +1,5 @@
 
-# Proiect Three.js
+# Proiect Three.js (RO) - [Three.js Project](./README [EN].md)
 - Student: Marius Daniel **VASILCANU**
 - Grupă: 1115 (Informatica Economica)
 
